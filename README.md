@@ -100,7 +100,7 @@ George Lopez is battling
 ### Sample Map Output
 
 The View class renders the world as an ASCII grid:
-
+```text
 20  .  .  .  .  C1 .  .  .  .  .  
 18  .  .  .  .  .  .  .  .  .  .  
 16  .  .  .  .  .  .  .  .  .  .  
@@ -113,6 +113,7 @@ The View class renders the world as an ASCII grid:
  2  T1 .  .  .  .  G1 .  .  .  .  
  0  .  .  .  .  .  .  .  .  .  .  
     0  2  4  6  8 10 12 14 16 18
+```
 T1 = Trainer 1
 C1 = Pokémon Center 1
 G1 = Pokémon Gym 1
