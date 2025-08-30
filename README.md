@@ -1,11 +1,5 @@
 # 🎮 Pokémon Adventure (C++ Simulation)
 
-![C++](https://img.shields.io/badge/language-C++11-blue)  
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)  
-![Platform](https://img.shields.io/badge/platform-terminal-lightgrey)
-
----
-
 ## 📖 Overview
 Pokémon Adventure is a **C++ simulation game** inspired by the Pokémon universe.  
 It models a small world where **Trainers** can move across a grid, battle in **Gyms**, heal at **Centers**, and encounter **Wild Pokémon**.  
