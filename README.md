@@ -38,18 +38,31 @@ The game is entirely **text-based** and played via typed commands.
 
 ## 📂 Project Structure
 ├── main.cpp # Entry point / game loop
+
 ├── Model.cpp/.h # Manages world state
+
 ├── GameObject.cpp/.h # Base class for all objects
+
 ├── Trainer.cpp/.h # Trainer logic
+
 ├── PokemonCenter.cpp/.h
+
 ├── PokemonGym.cpp/.h
+
 ├── WildPokemon.cpp/.h
+
 ├── Building.cpp/.h
+
 ├── View.cpp/.h # ASCII grid visualization
+
 ├── GameCommand.cpp/.h # Command handling
+
 ├── Point2D.cpp/.h # 2D point representation
+
 ├── Vector2D.cpp/.h # 2D vector math
+
 ├── Input_Handling.h # Exception handling class
+
 └── makefile.txt # Build instructions
 
 ---
